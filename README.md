@@ -17,7 +17,7 @@ The production-ready, unbloated, non-commented source code package (.py server, 
 
 You can purchase the full ready-to-run `.zip` package instantly via Litecoin / Crypto here:
 
-👉 **[CLICK HERE TO BUY INSTANTLY ON SHOPPY](https://shoppy.gg)**
+👉 **[CLICK HERE TO BUY INSTANTLY ON SHOPPY](https://shoppy.gg/product/IuAredF)**
 
 *(Your download link will be delivered automatically right after 3 network confirmations!)*
 
